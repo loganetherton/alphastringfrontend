@@ -1,0 +1,13 @@
+.topnavbar-wrapper {
+  width: 100% !important;
+}
+@media only screen and (max-width: 767px) {
+  .navbar-header {
+    width: 100% !important;
+    position: fixed !important;
+  }
+}
+
+.top-wrapper {
+  background-color: rgb(245, 247, 250);
+}
