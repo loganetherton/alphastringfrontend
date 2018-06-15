@@ -1,4 +1,8 @@
 /**
+ * This is the unmodified example that was included as part of the application email.
+ */
+
+/**
 * This React class is intended to query an endpoint that will return an alphanumeric string, after clicking a button.
 * This component is passed a prop "apiQueryDelay", which delays the endpoint request by N milliseconds. There is a
 * second button to disable this functionality and have the endpoint request run immediately after button click.
